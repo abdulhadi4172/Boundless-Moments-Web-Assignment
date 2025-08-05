@@ -80,7 +80,7 @@ BoundlessMoments/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BoundlessMoments.git
+   git clone https://github.com/abdulhadi4172/BoundlessMoments.git
 
 
 2. Set Up the Database
