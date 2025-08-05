@@ -80,7 +80,7 @@ BoundlessMoments/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BoundlessMoments.git
+   git clone https://github.com/abdulhadi4172/BoundlessMoments.git
 
 
 2. Set Up the Database
@@ -109,3 +109,4 @@ ISMT College, Kathmandu | University of Sunderland
 LinkedIn: www.linkedin.com/in/abdul-hadi-9779704572596phone
 Website: www.abdulhadi.com.np
 Email: abdul@abdulhadi.com.np
+
