@@ -108,3 +108,4 @@ BSc (Hons) Computer Systems Engineering (IT)
 ISMT College, Kathmandu | University of Sunderland
 LinkedIn: www.linkedin.com/in/abdul-hadi-9779704572596phone
 Website: www.abdulhadi.com.np
+Email: abdul@abdulhadi.com.np
